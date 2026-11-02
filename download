@@ -1,0 +1,20 @@
+# Credentials and local config: never commit
+.env
+*.env
+secrets*
+*key*.txt
+
+# Data and outputs (publishers' abstracts and PDFs must not be redistributed)
+outputs/
+data/
+pdfs/
+*.pdf
+*.csv
+*.xlsx
+literature_review_table.*
+bertopic_odd_cluster_documents.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/

@@ -1,0 +1,23 @@
+# Unpinned: record exact versions with `pip freeze` when you publish results.
+requests
+pandas
+numpy
+scipy
+matplotlib
+tqdm
+pymupdf
+nltk
+scikit-learn
+joblib
+threadpoolctl
+gensim
+pyLDAvis
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+spacy
+openpyxl
+wordcloud
+# After installing: python -m spacy download en_core_web_sm
+pyarrow
