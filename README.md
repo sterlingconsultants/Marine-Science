@@ -87,7 +87,8 @@ Outputs are written to the notebook's output folder. No credentials are stored i
 
 ## AI assistance
 
-Generative AI tools (OpenAI ChatGPT and Anthropic Claude) were used to help draft, review and revise the code, analysis text and documentation. The author reviewed, ran and verified the code and results and is responsible for the content.
+Declaration of generative AI and AI-assisted technologies in the manuscript preparation process. During the preparation of this work, the author used ChatGPT (OpenAI, [GPT-6, October 2026]) to review the manuscript and Claude (Anthropic, [Sonnet 5.5, November 2026]) to help draft and revise the manuscript text, tables and appendices from the author’s analysis outputs, to help write and debug the analysis code, and to generate the data visualisations and workflow diagram through reproducible code. After using these tools, the author ran the code, checked the results against the outputs, reviewed and edited the content as needed and takes full responsibility for the content of the published article.
+
 
 ## Licence
 
